@@ -11,7 +11,7 @@ self.addEventListener('install', function(e) {
         '/images/ic_camera_front_24px.svg',
         '/images/ic_camera_rear_24px.svg',
         '/styles/main.css',
-        '/scripts/main.min.js',
+        '/scripts/main.js',
         '/scripts/jsqrcode/qrworker.js',
         '/scripts/jsqrcode/grid.js',
         '/scripts/jsqrcode/version.js',
